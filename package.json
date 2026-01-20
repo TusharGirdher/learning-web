@@ -1,0 +1,20 @@
+{
+  "name": "learning-web",
+  "version": "1.0.0",
+  "description": "project 1",
+  "homepage": "https://github.com/TusharGirdher/learning-web#readme",
+  "bugs": {
+    "url": "https://github.com/TusharGirdher/learning-web/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharGirdher/learning-web.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
